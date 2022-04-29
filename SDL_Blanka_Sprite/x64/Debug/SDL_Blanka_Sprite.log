@@ -1,0 +1,10 @@
+﻿  Action.cpp
+  Character.cpp
+  Image.cpp
+  main.cpp
+  RenderingEngine.cpp
+  Scene.cpp
+  Sprite.cpp
+C:\Users\roberto.tellez\source\repos\SDL_Blanka_Sprite\SDL_Blanka_Sprite\Sprite.cpp(13,17): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Generating Code...
+  SDL_Blanka_Sprite.vcxproj -> C:\Users\roberto.tellez\source\repos\SDL_Blanka_Sprite\x64\Debug\SDL_Blanka_Sprite.exe

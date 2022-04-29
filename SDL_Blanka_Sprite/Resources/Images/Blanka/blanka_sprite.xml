@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprite name="Blanka" folder="C:\Users\roberto.tellez\source\repos\SDL_Blanka_Sprite\SDL_Blanka_Sprite\Resources\Images\Blanka\">
+    <Action name="normal">normal.xml</Action>
+	<Action name="run">run.xml</Action>
+	<Action name="jump">jump.xml</Action>
+</Sprite>

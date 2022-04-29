@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Action name="jump" path="C:\Users\roberto.tellez\source\repos\SDL_Blanka_Sprite\SDL_Blanka_Sprite\Resources\Images\Blanka" format="png">
+    <Image order="1">Blanka1.png</Image>
+	<Image order="2">Blanka2.png</Image>
+	<Image order="3">Blanka3.png</Image>
+	<Image order="4">Blanka4.png</Image>
+</Action>
